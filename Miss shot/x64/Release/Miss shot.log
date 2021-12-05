@@ -1,0 +1,115 @@
+﻿  sfml visual.cpp
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(32,1): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(33,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(33,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(43,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(45,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(64,41): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(64,34): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(65,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(65,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(159,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(160,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(160,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(161,34): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(161,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(175,22): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(181,30): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(181,22): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(244,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(244,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(271,54): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(271,45): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(271,90): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(318,33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(318,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(376,34): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(376,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(398,43): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(398,32): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(399,1): warning C4244: "-=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(425,41): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(425,34): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(426,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(426,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(427,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(427,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(455,23): warning C4244: "argument": konwersja z "const int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(472,1): warning C4305: "argument": obcięcie z "double" do "float"
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(496,41): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(496,34): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(497,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(497,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(536,33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(536,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(543,34): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(543,25): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(575,41): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(575,34): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(576,38): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(576,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(577,41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(577,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(589,33): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(589,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(607,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(679,86): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Mikolaj\source\repos\Miss shot\sfml visual.cpp(742,22): warning C4305: "+=": obcięcie z "double" do "float"
+  Trwa generowanie kodu
+  0 of 294 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Miss shot.vcxproj -> C:\Users\Mikolaj\source\repos\Miss shot\x64\Release\Miss shot.exe
