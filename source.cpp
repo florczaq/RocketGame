@@ -1,4 +1,4 @@
-﻿#include <SFML/Graphics.hpp>
+#include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>
 #include <iostream>
 #include <ctime>
@@ -232,12 +232,6 @@ public:
 		sprite.setOrigin(sprite.getLocalBounds().width / 2, sprite.getLocalBounds().height / 2);
 		sprite.setPosition(w_w / 2, w_h / 4);
 	}
-
-	//void if_end()
-	//{
-	//	if (sprite.getPosition().y >= w_h)
-	//		sprite.setPosition(w_w/2, 0);
-	//}
 
 	void move(float add)
 	{
@@ -740,23 +734,3 @@ again:
 
 	return 0;
 }
-
-/*
-
-1) Graphics for:
-
-- player,  ✓
-- enemy, (skalowanie) ✓
-- background, ✓
-- bullet ✓
-
-2) Screen "Game Over" (Big black rectangle over frame displayed before) ✓
-
-3) "High Score" system ✓
-
-
-[Optional]
-- Sounds (shot, heartless, game over, background music)
-- Player can move also forward and backward
-
-*/
